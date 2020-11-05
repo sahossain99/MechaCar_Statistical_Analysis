@@ -25,3 +25,25 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ![](Resources/car3.PNG)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per inch. From the above data we can see that the variance for Lot 1 and Lot 2 are 0.98 and 7.47 respectively. Hence the current manufacturing data for Lot 1 and Lot 2 meet this design specification. However, the variance for Lot 3 is 170 approximatey which is above the design specifications and therefore do not meet the design specifications. 
+
+## T-Tests on Suspension Coils 
+
+![](Resources/car4.PNG)
+
+Assuming the significance level of 0.05 percent, p-value (0.06028) is above our significance level. Therefore, we do not have enough evidence to support to reject the null hypothesis, and we would state that the two means are statistically similar. 
+
+![](Resources/car6.PNG)
+
+For Suspension Coils in Lot one assuming the significance level of 0.05 percent, p-value (1) is above our significance level. Therefore, we do not have enough evidence to support to reject the null hypothesis, and we would state that the two means are statistically similar. 
+
+![](Resources/car7.PNG)
+
+For Suspension Coils in Lot two assuming the significance level of 0.05 percent, p-value (0.6072) is above our significance level. Therefore, we do not have enough evidence to support to reject the null hypothesis, and we would state that the two means are statistically similar. 
+
+![](Resources/car8.PNG)
+
+For Suspension Coils in Lot three assuming the significance level of 0.05 percent, p-value (0.04168) is below our significance level. Therefore, we have enough evidence to reject the null hypothesis, and we would state that the two means are statistically different. 
+
+
+
+
